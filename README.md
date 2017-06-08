@@ -5,6 +5,8 @@
 Step 1
 Open your text editor and create a new plain text named HelloWorld.sh.
 
+In order to save as plain text using textEdit, go to format -> make plain text.
+
 Step 2
 All scripts must begin with the shebang(#!) and since we are using bash, line 1 will look like this.
 

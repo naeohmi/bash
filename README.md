@@ -23,7 +23,7 @@ If you saved HelloWorld.sh to your documents folder you would type:
 ``cd ~/documents``
 
 
-In order to compile your script, we type ``chmod +x ./hello.sh`` once your inside the folder holding the HelloWord.sh file.
+In order to compile your script, we type ``chmod +x ./HelloWorld.sh`` once your inside the folder holding the HelloWord.sh file.
 
 Step 4
 

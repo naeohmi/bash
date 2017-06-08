@@ -1,18 +1,20 @@
 # Hello World Script for Bash
 
 ## Step 1:
-- Open your text editor and create a new plain text named HelloWorld.sh.
 
-- In order to save as plain text using textEdit, go to format -> make plain text.
+- Open your text editor and create a new plain text named `HelloWorld.sh`.
+
+- In order to save as plain text using textEdit, go to format and change to: make plain text.
 
 ## Step 2:
+
 - All scripts must begin with the sheabang(#!) and since we are using bash, line 1 will look like this.
 
-``#!/bin/bash``
+- `#!/bin/bash`
 
-- Make sure to include ``echo Hello World`` under the shabang line.
+- Make sure to include `echo Hello World` under the shabang line.
 
-- Save your HelloWorld.sh file.
+- Save your `HelloWorld.sh` file.
 
 ## Step 3:
 
@@ -22,19 +24,19 @@
 
 - If you saved `HelloWorld.sh` to your documents folder you would type:
 
-``cd ~/documents``
+- `cd ~/documents`
 
 ## Step 4:
 
 - In order to compile your script, inside the folder holding the `HelloWord.sh` file type:
 
-``chmod +x ./HelloWorld.sh``
+- `chmod +x ./HelloWorld.sh`
 
 ## Step 5:
 
 - After everything is done you can type:
 
-`./HelloWorld.sh`
+- `./HelloWorld.sh`
 
 - and you get a response of "Hello World"!
 

@@ -29,5 +29,5 @@ In order to compile your script, we type ``chmod +x ./HelloWorld.sh`` once your 
 
 Step 4
 
-After everything is done you can type ./HelloWorld.sh and you should get a response of "Hello World"
+After everything is done you can type ``./HelloWorld.sh`` and you should get a response of "Hello World"
 

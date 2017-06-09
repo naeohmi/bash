@@ -12,7 +12,15 @@
 
 - `#!/bin/bash`
 
-- Make sure to include `echo Hello World` under the shabang line.
+- Add the following code under the shebang line
+
+- `greeting=Hello\ World
+
+   function greet {
+    echo $greeting
+   }
+
+   greet`
 
 - Save your `HelloWorld.sh` file.
 

@@ -141,34 +141,31 @@ NOTE: Most commands operate like this:
 `-options` is one or more adjustments to the command's behavior,
 `arguments` is one or more "things" upon which the command operates
 
-pwd = print working directory
-cd = change directory
-ls = list the files in the working directory
-ls /bin = list the files in the /bin directory
-ls -l = list the files in the working directory in long format 
-ls -la = List all files
-cp = copy files and directories
-mv = move or rename files and directories
-rm = remove files and directories
-mkdir = create directories
-
+- `pwd` = print working directory
+- `cd` = change directory
+- `ls` = list the files in the working directory
+- `ls /bin` = list the files in the /bin directory
+- `ls -l` = list the files in the working directory in long format 
+- `ls -lah` = List all files with permissions
+- `cp` = copy files and directories
+- `mv` = move or rename files and directories
+- `rm` = remove files and directories
+- `mkdir` = create directories
 
 </a>
 <a name="additional-resources">
 
 ## ADDITIONAL RESOURCES:
 
-http://linuxcommand.org/lc3_learning_the_shell.php
+- http://linuxcommand.org/lc3_learning_the_shell.php
  
-http://ryanstutorials.net/linuxtutorial/
+- http://ryanstutorials.net/linuxtutorial/
  
-https://medium.freecodecamp.com/writing-command-line-applications-in-nodejs-2cf8327eee2 
+- https://medium.freecodecamp.com/writing-command-line-applications-in-nodejs-2cf8327eee2 
  
-http://www.learnshell.org/ 
+- http://www.learnshell.org/ 
 
 
 </a>
 
 [Go Back to Table of Contents](#goback)
-
- 

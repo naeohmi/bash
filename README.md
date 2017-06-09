@@ -39,7 +39,42 @@ While there are a number of different terminal emulators, they all do the same t
 
 ## FUN GAMES:
 
+### 1. TETRIS
+- cd home
+- type: emacs
+- press enter to open
+- press Esc
+- type x
+- type tetris
+- play!
 
+(this is what the shell script looks like to run this game: https://www.linuxquestions.org/questions/programming-9/tetris-game-based-on-a-shell-script-new-algorithm-911496-print/)
+
+
+### 2. SNAKE:
+- cd home
+- type `emacs -q --no-splash -f snake`
+ - play!
+ 
+### 3. MAKE TERMINAL TALK:
+- cd home
+- type `say {words to talk}`
+- hit enter
+- make sure volume is turned on!
+- have fun :)
+ 
+### 4. WATCH STAR WARS:
+- cd home
+- type `telnet towel.blinkenlights.nl`
+- hit enter
+- enjoy!
+
+### To exit emacs:
+- hit esc 
+- type control + x
+- hit enter
+- type ontrol + c
+- hit enter
 
 </a>
 <a name="hello-world">
@@ -98,11 +133,38 @@ greet
 
 ## COMMANDS-TO-SAVE:
 
+NOTE: Most commands operate like this:
+
+   `` command -options arguments ``
+
+`Command` is the name of the command,
+`-options` is one or more adjustments to the command's behavior,
+`arguments` is one or more "things" upon which the command operates
+
+pwd = print working directory
+cd = change directory
+ls = list the files in the working directory
+ls /bin = list the files in the /bin directory
+ls -l = list the files in the working directory in long format 
+ls -la = List all files
+cp = copy files and directories
+mv = move or rename files and directories
+rm = remove files and directories
+mkdir = create directories
+
 
 </a>
 <a name="additional-resources">
 
 ## ADDITIONAL RESOURCES:
+
+http://linuxcommand.org/lc3_learning_the_shell.php
+ 
+http://ryanstutorials.net/linuxtutorial/
+ 
+https://medium.freecodecamp.com/writing-command-line-applications-in-nodejs-2cf8327eee2 
+ 
+http://www.learnshell.org/ 
 
 
 </a>

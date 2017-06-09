@@ -1,7 +1,7 @@
 <a name="goback">
 
-# Sweet Libs Team: James & Naomi
-## Language: Bash Linux CLI
+# Sweet Libs Language: Bash Linux CLI
+## Team: Naomi & James
 
 </a>
 

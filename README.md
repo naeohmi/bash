@@ -157,6 +157,8 @@ NOTE: Most commands operate like this:
 
 ## ADDITIONAL RESOURCES:
 
+- https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192
+
 - http://linuxcommand.org/lc3_learning_the_shell.php
  
 - http://ryanstutorials.net/linuxtutorial/
